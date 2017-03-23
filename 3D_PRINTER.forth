@@ -1,5 +1,3 @@
-	
-	//CRIAR SINTAXE PROPRIA!
 
 	// Variables define
 
